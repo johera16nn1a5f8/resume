@@ -1,0 +1,65 @@
+{
+	"basicdetails":
+	{
+		"image":"Lighthouse.jpg",
+		"name":"sk apsheena",
+		"email":"joheraapshena@gmail.com",
+		"phone":"9966237139",
+		"address":"13-7-86 guntur"
+
+	},
+	"Education":
+	[
+		{
+				"course":"b.tech(c.s.e)",
+				"college":"vignan nirula college",
+				"percentage":"68%"
+		},
+		{
+			"course":"intermediate(m.p.c)",
+			"college":"chaityana",
+			"percentage":"89%"
+        },
+		{
+			"course":"ssc",
+			"college":"sksmchschool",
+			"percentage":"85%"
+		}
+	],
+	"skills":
+	[
+		{
+			"name":"operating system",
+			 "value":"windows,linux,mac"
+		},
+		{
+			"name":"programming languages",
+			"value":"c,c++,java"
+		}
+	],
+	"carrier":{
+		"ca":"I would like employee for 2 years and then i want to go in the side of business then  i  want to be in the no.1 position in the business then got the name of great business women "
+	},
+"achevements":[
+		"I got first rank in my  tenth class ",
+		"I got 3rd prize in singing competion",
+		"i got 3rd prize in running competion"
+	],
+"Description":{
+		"da":"hereby I conclude this all are true about me"
+
+	}
+}
+
+
+
+
+        
+	
+
+
+
+
+
+
+		
